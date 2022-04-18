@@ -1,0 +1,31 @@
+.bg-1
+{
+  background-color: #22577E;
+  color: #ffffff;
+}
+.bg-2
+{
+  background-color: #5584AC;
+  color: #fff;
+}
+.bg-3
+{
+  background-color: #5584AC;
+  color: #fff;
+}
+.bg-4
+{
+  background-color: #FAFFAF;
+  color: red;
+}
+.container-fluid
+{
+  padding-bottom: 18px;
+  padding-top: 5px
+}
+p::selection
+
+{
+  background: yellow;
+  color: red;
+}
